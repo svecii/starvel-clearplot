@@ -1,0 +1,18 @@
+# Feito pelo epifânico <3
+# A permissão é starvel.give.limpadora
+
+Clear:
+  Item:
+    Name: '&b&lLIMPADOR DE TERRENOS'
+    Lore:
+      - ''
+      - '&fpaulo mude aqui'
+      - '&fpaulo mude aqui'
+      - '&fpaulo mude aqui'
+    ID: 277
+    Data: 0
+    
+Message:
+  Clear: '&eYah! você limpou sua plot com sucesso.'
+  PlotOwner: '&cEi! essa plot não é sua.'
+  noPlot: '&eEi! você não está em uma plot.'
